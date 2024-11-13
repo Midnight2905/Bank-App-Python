@@ -2,7 +2,6 @@
 import random
 runningOn = 0
 looping = 1
-#DO NOT FORGET TO CHANGE THIS, 1000 IS JUST A PLACE HOLDER NUMBER
 
 userNameList = []
 userIdList =[]
